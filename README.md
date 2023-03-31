@@ -6,3 +6,4 @@ A ponte H faz com que a corrente de entrada, que é alternada, fique na saída d
 A corrente de saída, que vai para o circuito, se desloca de maneira continua em uma direção, isso é proporcionado pelos diodos que compõem a ponte H.
 Essa corrente contínua é que faz funcionar os equipamentos do lado carga, como o LED por exemplo.
 Os capacitores, existentes no circuito já retificado, fazem um filtro na tensão deste circuito, carregando quando o circuito está ligado e descarregando quando desligado. Essa descarga, efetuada pelo capacitor no circuito, faz com a tensão não diminua drásticamente enquanto o circuito está desligado, o que proporciona uma melhor retilineidade na onda que alimenta o circuito carga.
+
