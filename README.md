@@ -1,4 +1,4 @@
-# Sistemas_Embarcados
+# Sistemas Embarcados
 
 Neste projeto efetuamos a montagem de um circuito, em plataforma de simulação, que efetua a a retificação da onda de corrente elétrica.
 Com tensão de entrada de aproximadamente 12 volts, a corrente elétrica passa pela ponte H, montada com um conjunto de diodos individuais, onde ocorre a retificação.
