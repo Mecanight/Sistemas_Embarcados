@@ -12,4 +12,4 @@ Os capacitores, existentes no circuito já retificado, fazem um filtro na tensã
 ![PCB](https://github.com/Mecanight/Sistemas_Embarcados/blob/main/pcb.png)
 ![3D-1](https://github.com/Mecanight/Sistemas_Embarcados/blob/main/3d-1.png)
 ![3D-2](https://github.com/Mecanight/Sistemas_Embarcados/blob/main/3d-2.png)
-![3D-3](https://github.com/Mecanight/Sistemas_Embarcados/blob/main/3d-2.png)
+![3D-3](https://github.com/Mecanight/Sistemas_Embarcados/blob/main/3d-3.png)
