@@ -31,5 +31,5 @@ Visão 3D das trilhas na parte inferior da placa
 Projeto montado em protoboard utilizando LM7805   
 ![Montagem_Protoboard](https://github.com/Mecanight/Sistemas_Embarcados/blob/main/assets/img/protoboard.jfif)
 
-Projeto montado em protoboard utilizando LM7809   
+Projeto montado em protoboard utilizando LM7809 e divisor de tensão   
 ![Montagem_Protoboard](https://github.com/Mecanight/Sistemas_Embarcados/blob/main/assets/img/protoboard_7809.jpeg)
