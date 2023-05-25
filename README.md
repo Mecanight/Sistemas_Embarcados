@@ -11,7 +11,7 @@ Projeto elaborado no TinkerCAD com LM7805
 ![TinkerCAD](https://github.com/Mecanight/Sistemas_Embarcados/blob/main/assets/img/tinkerCad.gif)
 
 Projeto elaborado no TinkerCAD com LM7809 e divisor de tensão  
-![TinkerCAD](https://github.com/Mecanight/Sistemas_Embarcados/blob/main/assets/img/tinkerCad_7809.gif)
+![TinkerCAD_7809](https://github.com/Mecanight/Sistemas_Embarcados/blob/main/assets/img/tinkerCad_7809.jpeg)
 
 Esquemático do Proteus  
 ![Schematic](https://github.com/Mecanight/Sistemas_Embarcados/blob/main/assets/img/schematic.png)
@@ -27,3 +27,9 @@ Visão 3D dos componentes
 
 Visão 3D das trilhas na parte inferior da placa  
 ![3D-3](https://github.com/Mecanight/Sistemas_Embarcados/blob/main/assets/img/3d-3.png)
+
+Projeto montado em protoboard utilizando LM7805   
+![Montagem_Protoboard](https://github.com/Mecanight/Sistemas_Embarcados/blob/main/assets/img/protoboard.jfif)
+
+Projeto montado em protoboard utilizando LM7809   
+![Montagem_Protoboard](https://github.com/Mecanight/Sistemas_Embarcados/blob/main/assets/img/protoboard_7809.jpeg)
